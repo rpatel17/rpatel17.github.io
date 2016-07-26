@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ronak Patel"
+title: "Red Hat Summer Internship - 2016"
 date: 2016-08-04
 ---
 
